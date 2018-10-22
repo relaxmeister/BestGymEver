@@ -65,7 +65,7 @@ public class BestGymEver {
                         }
                         catch(NullPointerException e)
                         {
-                            //för att inte utlösa error vid avbryt/kryss
+                            //för att inte utlösa error vid avbryt/kryss test
                         }     
                         break;
                     case "2":
